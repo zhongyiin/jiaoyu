@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<node>
+ <lang>zh_CN</lang>
+ <logo_src>../upload/image/damingkeji.gif</logo_src>
+ <logo_width>299</logo_width>
+ <logo_height>92</logo_height>
+ <bbs_title>联系旺旺jkxniao</bbs_title>
+ <bbs_url>http://ai21.taobao.com</bbs_url>
+ <bbs_description>联系旺旺jkxniao</bbs_description>
+ <host_title>点击这里购买</host_title>
+ <host_url>http://item.taobao.com/item.htm?id=18952088096</host_url>
+ <host_description>完整版的破解最新2.5程序</host_description>
+ <footer>http://item.taobao.com/item.htm?id=18952088096&#13;
+&#13;
+&#13;
+最新完整版破解程序  无版权限制</footer>
+</node>
+<node>
+ <lang>en</lang>
+ <logo_src>template/images/site_logo.png</logo_src>
+ <logo_width>299</logo_width>
+ <logo_height>92</logo_height>
+ <bbs_title>Official BBS</bbs_title>
+ <bbs_url>http://www.sitestar.cn/bbs/</bbs_url>
+ <bbs_description>Any trouble，please seek help from here</bbs_description>
+ <host_title>Recommend Host</host_title>
+ <host_url>http://www.cndns.com/</host_url>
+ <host_description>Custom shortcuts brief introduction</host_description>
+ <footer>Enterprise intelligence destinati management system&lt;br /&gt;Copyrigt@2012 yourdomain All Right Reserved</footer>
+</node>
+</root>
